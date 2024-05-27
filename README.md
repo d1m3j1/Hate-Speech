@@ -56,7 +56,7 @@ To get started with the project, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/LucyNowacki/xLSTM-Hate-Speech.git
+    git clone https://git@github.com:d1m3j1/Hate-Speech.git
     cd xLSTM-Hate-Speech
     ```
 
